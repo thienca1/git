@@ -1,2 +1,1 @@
-# git
-learn git
+# Huong dan Git co ban
